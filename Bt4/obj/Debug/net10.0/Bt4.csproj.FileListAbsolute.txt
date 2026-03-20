@@ -1,0 +1,14 @@
+E:\C#\BaiTap\Bt4\bin\Debug\net10.0\Bt4.exe
+E:\C#\BaiTap\Bt4\bin\Debug\net10.0\Bt4.deps.json
+E:\C#\BaiTap\Bt4\bin\Debug\net10.0\Bt4.runtimeconfig.json
+E:\C#\BaiTap\Bt4\bin\Debug\net10.0\Bt4.dll
+E:\C#\BaiTap\Bt4\bin\Debug\net10.0\Bt4.pdb
+E:\C#\BaiTap\Bt4\obj\Debug\net10.0\Bt4.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\BaiTap\Bt4\obj\Debug\net10.0\Bt4.AssemblyInfoInputs.cache
+E:\C#\BaiTap\Bt4\obj\Debug\net10.0\Bt4.AssemblyInfo.cs
+E:\C#\BaiTap\Bt4\obj\Debug\net10.0\Bt4.csproj.CoreCompileInputs.cache
+E:\C#\BaiTap\Bt4\obj\Debug\net10.0\Bt4.dll
+E:\C#\BaiTap\Bt4\obj\Debug\net10.0\refint\Bt4.dll
+E:\C#\BaiTap\Bt4\obj\Debug\net10.0\Bt4.pdb
+E:\C#\BaiTap\Bt4\obj\Debug\net10.0\Bt4.genruntimeconfig.cache
+E:\C#\BaiTap\Bt4\obj\Debug\net10.0\ref\Bt4.dll
