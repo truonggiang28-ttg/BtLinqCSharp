@@ -1,0 +1,14 @@
+E:\C#\BaiTap\Bttrenlop\bin\Debug\net10.0\Bttrenlop.exe
+E:\C#\BaiTap\Bttrenlop\bin\Debug\net10.0\Bttrenlop.deps.json
+E:\C#\BaiTap\Bttrenlop\bin\Debug\net10.0\Bttrenlop.runtimeconfig.json
+E:\C#\BaiTap\Bttrenlop\bin\Debug\net10.0\Bttrenlop.dll
+E:\C#\BaiTap\Bttrenlop\bin\Debug\net10.0\Bttrenlop.pdb
+E:\C#\BaiTap\Bttrenlop\obj\Debug\net10.0\Bttrenlop.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\BaiTap\Bttrenlop\obj\Debug\net10.0\Bttrenlop.AssemblyInfoInputs.cache
+E:\C#\BaiTap\Bttrenlop\obj\Debug\net10.0\Bttrenlop.AssemblyInfo.cs
+E:\C#\BaiTap\Bttrenlop\obj\Debug\net10.0\Bttrenlop.csproj.CoreCompileInputs.cache
+E:\C#\BaiTap\Bttrenlop\obj\Debug\net10.0\Bttrenlop.dll
+E:\C#\BaiTap\Bttrenlop\obj\Debug\net10.0\refint\Bttrenlop.dll
+E:\C#\BaiTap\Bttrenlop\obj\Debug\net10.0\Bttrenlop.pdb
+E:\C#\BaiTap\Bttrenlop\obj\Debug\net10.0\Bttrenlop.genruntimeconfig.cache
+E:\C#\BaiTap\Bttrenlop\obj\Debug\net10.0\ref\Bttrenlop.dll
