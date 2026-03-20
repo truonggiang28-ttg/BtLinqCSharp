@@ -1,0 +1,14 @@
+E:\C#\BaiTap\Bt18\bin\Debug\net10.0\Bt18.exe
+E:\C#\BaiTap\Bt18\bin\Debug\net10.0\Bt18.deps.json
+E:\C#\BaiTap\Bt18\bin\Debug\net10.0\Bt18.runtimeconfig.json
+E:\C#\BaiTap\Bt18\bin\Debug\net10.0\Bt18.dll
+E:\C#\BaiTap\Bt18\bin\Debug\net10.0\Bt18.pdb
+E:\C#\BaiTap\Bt18\obj\Debug\net10.0\Bt18.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\BaiTap\Bt18\obj\Debug\net10.0\Bt18.AssemblyInfoInputs.cache
+E:\C#\BaiTap\Bt18\obj\Debug\net10.0\Bt18.AssemblyInfo.cs
+E:\C#\BaiTap\Bt18\obj\Debug\net10.0\Bt18.csproj.CoreCompileInputs.cache
+E:\C#\BaiTap\Bt18\obj\Debug\net10.0\Bt18.dll
+E:\C#\BaiTap\Bt18\obj\Debug\net10.0\refint\Bt18.dll
+E:\C#\BaiTap\Bt18\obj\Debug\net10.0\Bt18.pdb
+E:\C#\BaiTap\Bt18\obj\Debug\net10.0\Bt18.genruntimeconfig.cache
+E:\C#\BaiTap\Bt18\obj\Debug\net10.0\ref\Bt18.dll
