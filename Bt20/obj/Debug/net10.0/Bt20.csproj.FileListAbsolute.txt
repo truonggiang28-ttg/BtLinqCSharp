@@ -1,0 +1,14 @@
+E:\C#\BaiTap\Bt20\bin\Debug\net10.0\Bt20.exe
+E:\C#\BaiTap\Bt20\bin\Debug\net10.0\Bt20.deps.json
+E:\C#\BaiTap\Bt20\bin\Debug\net10.0\Bt20.runtimeconfig.json
+E:\C#\BaiTap\Bt20\bin\Debug\net10.0\Bt20.dll
+E:\C#\BaiTap\Bt20\bin\Debug\net10.0\Bt20.pdb
+E:\C#\BaiTap\Bt20\obj\Debug\net10.0\Bt20.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\BaiTap\Bt20\obj\Debug\net10.0\Bt20.AssemblyInfoInputs.cache
+E:\C#\BaiTap\Bt20\obj\Debug\net10.0\Bt20.AssemblyInfo.cs
+E:\C#\BaiTap\Bt20\obj\Debug\net10.0\Bt20.csproj.CoreCompileInputs.cache
+E:\C#\BaiTap\Bt20\obj\Debug\net10.0\Bt20.dll
+E:\C#\BaiTap\Bt20\obj\Debug\net10.0\refint\Bt20.dll
+E:\C#\BaiTap\Bt20\obj\Debug\net10.0\Bt20.pdb
+E:\C#\BaiTap\Bt20\obj\Debug\net10.0\Bt20.genruntimeconfig.cache
+E:\C#\BaiTap\Bt20\obj\Debug\net10.0\ref\Bt20.dll
