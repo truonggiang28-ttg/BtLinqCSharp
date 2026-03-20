@@ -1,0 +1,14 @@
+E:\C#\BaiTap\Bt6\bin\Debug\net10.0\Bt6.exe
+E:\C#\BaiTap\Bt6\bin\Debug\net10.0\Bt6.deps.json
+E:\C#\BaiTap\Bt6\bin\Debug\net10.0\Bt6.runtimeconfig.json
+E:\C#\BaiTap\Bt6\bin\Debug\net10.0\Bt6.dll
+E:\C#\BaiTap\Bt6\bin\Debug\net10.0\Bt6.pdb
+E:\C#\BaiTap\Bt6\obj\Debug\net10.0\Bt6.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\BaiTap\Bt6\obj\Debug\net10.0\Bt6.AssemblyInfoInputs.cache
+E:\C#\BaiTap\Bt6\obj\Debug\net10.0\Bt6.AssemblyInfo.cs
+E:\C#\BaiTap\Bt6\obj\Debug\net10.0\Bt6.csproj.CoreCompileInputs.cache
+E:\C#\BaiTap\Bt6\obj\Debug\net10.0\Bt6.dll
+E:\C#\BaiTap\Bt6\obj\Debug\net10.0\refint\Bt6.dll
+E:\C#\BaiTap\Bt6\obj\Debug\net10.0\Bt6.pdb
+E:\C#\BaiTap\Bt6\obj\Debug\net10.0\Bt6.genruntimeconfig.cache
+E:\C#\BaiTap\Bt6\obj\Debug\net10.0\ref\Bt6.dll
