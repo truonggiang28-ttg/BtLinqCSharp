@@ -1,0 +1,14 @@
+E:\C#\BaiTap\Bt13\bin\Debug\net10.0\Bt13.exe
+E:\C#\BaiTap\Bt13\bin\Debug\net10.0\Bt13.deps.json
+E:\C#\BaiTap\Bt13\bin\Debug\net10.0\Bt13.runtimeconfig.json
+E:\C#\BaiTap\Bt13\bin\Debug\net10.0\Bt13.dll
+E:\C#\BaiTap\Bt13\bin\Debug\net10.0\Bt13.pdb
+E:\C#\BaiTap\Bt13\obj\Debug\net10.0\Bt13.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\BaiTap\Bt13\obj\Debug\net10.0\Bt13.AssemblyInfoInputs.cache
+E:\C#\BaiTap\Bt13\obj\Debug\net10.0\Bt13.AssemblyInfo.cs
+E:\C#\BaiTap\Bt13\obj\Debug\net10.0\Bt13.csproj.CoreCompileInputs.cache
+E:\C#\BaiTap\Bt13\obj\Debug\net10.0\Bt13.dll
+E:\C#\BaiTap\Bt13\obj\Debug\net10.0\refint\Bt13.dll
+E:\C#\BaiTap\Bt13\obj\Debug\net10.0\Bt13.pdb
+E:\C#\BaiTap\Bt13\obj\Debug\net10.0\Bt13.genruntimeconfig.cache
+E:\C#\BaiTap\Bt13\obj\Debug\net10.0\ref\Bt13.dll
