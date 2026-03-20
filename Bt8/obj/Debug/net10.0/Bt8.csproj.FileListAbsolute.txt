@@ -1,0 +1,14 @@
+E:\C#\BaiTap\Bt8\bin\Debug\net10.0\Bt8.exe
+E:\C#\BaiTap\Bt8\bin\Debug\net10.0\Bt8.deps.json
+E:\C#\BaiTap\Bt8\bin\Debug\net10.0\Bt8.runtimeconfig.json
+E:\C#\BaiTap\Bt8\bin\Debug\net10.0\Bt8.dll
+E:\C#\BaiTap\Bt8\bin\Debug\net10.0\Bt8.pdb
+E:\C#\BaiTap\Bt8\obj\Debug\net10.0\Bt8.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\BaiTap\Bt8\obj\Debug\net10.0\Bt8.AssemblyInfoInputs.cache
+E:\C#\BaiTap\Bt8\obj\Debug\net10.0\Bt8.AssemblyInfo.cs
+E:\C#\BaiTap\Bt8\obj\Debug\net10.0\Bt8.csproj.CoreCompileInputs.cache
+E:\C#\BaiTap\Bt8\obj\Debug\net10.0\Bt8.dll
+E:\C#\BaiTap\Bt8\obj\Debug\net10.0\refint\Bt8.dll
+E:\C#\BaiTap\Bt8\obj\Debug\net10.0\Bt8.pdb
+E:\C#\BaiTap\Bt8\obj\Debug\net10.0\Bt8.genruntimeconfig.cache
+E:\C#\BaiTap\Bt8\obj\Debug\net10.0\ref\Bt8.dll
