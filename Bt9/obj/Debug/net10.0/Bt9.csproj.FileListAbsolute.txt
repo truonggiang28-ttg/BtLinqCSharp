@@ -1,0 +1,14 @@
+E:\C#\BaiTap\Bt9\bin\Debug\net10.0\Bt9.exe
+E:\C#\BaiTap\Bt9\bin\Debug\net10.0\Bt9.deps.json
+E:\C#\BaiTap\Bt9\bin\Debug\net10.0\Bt9.runtimeconfig.json
+E:\C#\BaiTap\Bt9\bin\Debug\net10.0\Bt9.dll
+E:\C#\BaiTap\Bt9\bin\Debug\net10.0\Bt9.pdb
+E:\C#\BaiTap\Bt9\obj\Debug\net10.0\Bt9.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\BaiTap\Bt9\obj\Debug\net10.0\Bt9.AssemblyInfoInputs.cache
+E:\C#\BaiTap\Bt9\obj\Debug\net10.0\Bt9.AssemblyInfo.cs
+E:\C#\BaiTap\Bt9\obj\Debug\net10.0\Bt9.csproj.CoreCompileInputs.cache
+E:\C#\BaiTap\Bt9\obj\Debug\net10.0\Bt9.dll
+E:\C#\BaiTap\Bt9\obj\Debug\net10.0\refint\Bt9.dll
+E:\C#\BaiTap\Bt9\obj\Debug\net10.0\Bt9.pdb
+E:\C#\BaiTap\Bt9\obj\Debug\net10.0\Bt9.genruntimeconfig.cache
+E:\C#\BaiTap\Bt9\obj\Debug\net10.0\ref\Bt9.dll
